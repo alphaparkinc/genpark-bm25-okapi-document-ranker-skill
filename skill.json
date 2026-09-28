@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-bm25-okapi-document-ranker-skill",
+  "version": "1.0.0",
+  "description": "Okapi BM25 information retrieval document scoring and search engine with document length normalization.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
